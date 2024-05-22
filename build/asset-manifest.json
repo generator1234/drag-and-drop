@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f5c9bb5f.css",
+    "main.js": "/static/js/main.a3d26fa0.js",
+    "static/js/453.d70afeb2.chunk.js": "/static/js/453.d70afeb2.chunk.js",
+    "static/media/background0.png": "/static/media/background0.f49f2ec8fcc8ec2d55de.png",
+    "static/media/background3.png": "/static/media/background3.79a9dc7f09596ab67e0b.png",
+    "static/media/background4.png": "/static/media/background4.86d5d406fde7faca636f.png",
+    "static/media/background2.png": "/static/media/background2.d0e0839b065931695f40.png",
+    "static/media/background1.png": "/static/media/background1.2a688fb67f5438fc1b77.png",
+    "static/media/holding0.png": "/static/media/holding0.583907d7082669d5c5bc.png",
+    "static/media/holding4.png": "/static/media/holding4.bf4767f91fa9a8994cec.png",
+    "static/media/holding1.png": "/static/media/holding1.400646b246d33956faa3.png",
+    "static/media/white.png": "/static/media/white.927ff30d7314ebeb7a81.png",
+    "static/media/background-overlay.png": "/static/media/background-overlay.bad2929d108352af62f8.png",
+    "static/media/holding6.png": "/static/media/holding6.277d130d58f1e29b4ac9.png",
+    "static/media/holding5.png": "/static/media/holding5.b5082edb71de071161f1.png",
+    "static/media/hat3.png": "/static/media/hat3.16663675b38c92a19828.png",
+    "static/media/holding8.png": "/static/media/holding8.77125ef5ac32d309f17d.png",
+    "static/media/hat2.png": "/static/media/hat2.456a40e7b6a42fd202ee.png",
+    "static/media/holding2.png": "/static/media/holding2.ee224744c7212b515fdc.png",
+    "static/media/hat0.png": "/static/media/hat0.00e22b99929b17fe2041.png",
+    "static/media/hat4.png": "/static/media/hat4.f07eaf29b971cbe97635.png",
+    "static/media/hat5.png": "/static/media/hat5.f7ceca97bc6a4ebc686c.png",
+    "static/media/hat1.png": "/static/media/hat1.c3c3dd31a77a5b965827.png",
+    "static/media/persistent-overlay.png": "/static/media/persistent-overlay.f58a56b4005a8a1ce4ca.png",
+    "static/media/holding3.png": "/static/media/holding3.b976c3235fd18bfb4255.png",
+    "static/media/holding7.png": "/static/media/holding7.55435a4d741ebbca27c9.png",
+    "static/media/draggable1.png": "/static/media/draggable1.2704b4fd9f0967246e9e.png",
+    "index.html": "/index.html",
+    "main.f5c9bb5f.css.map": "/static/css/main.f5c9bb5f.css.map",
+    "main.a3d26fa0.js.map": "/static/js/main.a3d26fa0.js.map",
+    "453.d70afeb2.chunk.js.map": "/static/js/453.d70afeb2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5c9bb5f.css",
+    "static/js/main.a3d26fa0.js"
+  ]
+}
